@@ -1,0 +1,19 @@
+# Internal working notes (not for publication)
+internal/
+
+# Temporary Swift snippet checker
+_swift_check/
+swiftcheck.tar.gz
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Editors
+.vscode/
+.idea/
